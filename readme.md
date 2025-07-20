@@ -2,6 +2,10 @@
 
 A simple RESTful multimodal API powered by Google’s Gemini AI (gemini-2.0-flash) that can generate text, describe images, summarize documents, and transcribe audio via HTTP endpoints.
 
+## Disclaimer
+
+Proyek ini dibangun dengan bantuan AI (OpenAI). Meskipun kode dan arsitektur telah diuji serta disesuaikan secara manual, sebagian besar struktur, skrip, dan dokumentasi awal dihasilkan oleh model GPT. Pengguna dianjurkan untuk meninjau, memverifikasi, dan memodifikasi kode sesuai kebutuhan sebelum digunakan dalam lingkungan produksi.
+
 ## Features
 
 - **Multimodal Input**: Supports text prompts, image uploads, document uploads (PDF/DOCX), and audio uploads (MP3/WAV).
